@@ -1,22 +1,18 @@
-# How to create a minecraft server
+# How to setup a minecraft server
 
-## 1. Setup the server
+With this repository it's easier to setup a minecraft server
 
-You can install the server template by git cloning the repository
-
-```
-
-https://github.com/RadoTheProgrammer/mcserver-template
-cd mcserver-template
-
-
+1. Git clone the repository
 
 ```
 
-Then go to the server folder of your choice (e.g. craftbukkit-1.20.4).
+git clone https://github.com/RadoTheProgrammer/mcserver-template
+cd https://github.com/RadoTheProgrammer/mcserver-template
+```
 
-## 2. Run the server
+2. Run the server
 
-On windows, run the file `start.bat`
+   1. Go in the server folder (e.g. craftbukkit)
+   2. Run `start.bat` if you're on Windows, or `start.sh` if you're on mac or linux
 
-On mac or linux, run `start.sh`
+Then you can go to the minecraft server in the ip address
