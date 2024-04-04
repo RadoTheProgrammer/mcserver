@@ -16,7 +16,10 @@ In your server directory, run `start.bat` if you're on Windows, or `start.sh` on
 
 Then you can go to the minecraft server in the ip address `localhost`
 
-Now, you can use `mcpi` library to interact with it, install it with `pip install mcpi` and make a hello world program.
+## 3. mcpi
+
+
+Now, you can use `mcpi` library to interact with it, [install python](https://www.python.org/downloads/) and mcpi with `pip install mcpi` and make a hello world program.
 
 ```python
 
